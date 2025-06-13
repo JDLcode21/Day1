@@ -11,7 +11,7 @@ A simple HTTP-based REST API for managing user profiles using **Node.js**, built
 - **Team**: Enterprise Backend Solutions  
 - **Role**: Team Representative  
 - **Developer**: Jeo D. Latorre  
-- **Date**: October 1, 2023
+- **Date**: June 13, 2025
 
 ---
 
