@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "jdl",
+    "email": "jdl@example.com",
+    "role": "viewer"
+  },
+  {
+    "id": 2,
+    "name": "Joe",
+    "email": "joe@example.com",
+    "role": "viewer"
+  },
+  {
+    "id": 3,
+    "name": "Anna",
+    "email": "anna@example.com",
+    "role": "viewer"
+  },
+  {
+    "id": 4,
+    "name": "Aisha",
+    "email": "aisha@example.com",
+    "role": "admin"
+  },
+  {
+    "id": 5,
+    "name": "jdl",
+    "email": "jdl@example.com",
+    "role": "viewer"
+  }
+]
