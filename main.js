@@ -1,6 +1,5 @@
 /*
     Team : Enterprise Backend Solutions
-    Role : Team Representative
     Name : Jeo D. Latorre
     Date : June 13, 2025
 
